@@ -1,4 +1,4 @@
-# app_order_pizza_yummy_go
+# app_order_pizza
 
 an online pizza ordering mobile app with integrated data analytics to suggest dishes
 
